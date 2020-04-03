@@ -10,7 +10,7 @@ License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 /**
- * Désactivation de Gutenberg
+ * Disable Gutenberg
  * 
  * More information:
  * @link https://digwp.com/2018/04/how-to-disable-gutenberg/
